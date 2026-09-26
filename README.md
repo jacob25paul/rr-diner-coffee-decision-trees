@@ -1,10 +1,10 @@
-# RR Diner Coffee: Decision Tree Case Study (Tier 3)
+# RR Diner Coffee: Decision Tree Case Study
 
 Completed Springboard Tier 3 assignment: data cleaning, EDA, four decision trees, training-only cross-validation, random forest tuning, and a business conclusion. All 48 nonempty code cells executed without errors, with plots and outputs saved.
 
 ## Files
 
-- RR_Diner_Coffee_Tier_3_Completed.ipynb — completed notebook with written interpretations.
+- RR_Diner_Coffee_Tier_3.ipynb — completed notebook with written interpretations.
 - RRDinerCoffeeData.csv — original data, unchanged.
 - Hidden_Farm_Predictions.csv — predictions for 228 unknown responses from the CV-selected model; source_csv_row counts the header as row 1 and is not a customer ID.
 - Model_Comparison.csv — evaluation metrics for all five models.
